@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5526259-b783-4e78-82dc-65fd793b5ddb" name="Changes" comment="this could be the start of something new" />
+    <list default="true" id="e5526259-b783-4e78-82dc-65fd793b5ddb" name="Changes" comment="this could be the start of something new">
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/.idea/netflix-dupe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/next.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/tailwind.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-dupe/tsconfig.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,22 +44,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/antoniamugisa/Desktop/CodingProjects/netflix_dupe",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Subversion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/antoniamugisa/Desktop/CodingProjects/netflix_dupe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Subversion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -55,6 +77,7 @@
       <updated>1709581181326</updated>
       <workItem from="1709581182736" duration="700000" />
       <workItem from="1709581954210" duration="318000" />
+      <workItem from="1709600945907" duration="190000" />
     </task>
     <task id="LOCAL-00001" summary="this could be the start of something new">
       <option name="closed" value="true" />
