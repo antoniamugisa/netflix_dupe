@@ -1,10 +1,16 @@
 import Input from "@/components/input";
-import {useState} from "react";
+import {useCallback, useState} from "react";
 
 const Auth = () => {
     const [email, setEmail] = useState('');
     const [name, setName] = useState('');
     const [password, setPassword] = useState('');
+
+    const [variant, setVariant] = useState('login');
+
+    const toggleVariant = useCallback(() => {
+        setVariant((currentVariant) => currentVariant = 'login' ? 'register' : 'login');
+    }, [])
 
     return (
         <div className="
@@ -55,7 +61,7 @@ const Auth = () => {
                         mb-8
                         font-semibold
                         ">
-                            Sign in
+                            {variant == 'login' ? 'Sign in' : 'Create an account'}
                         </h2>
                         <div className="
                         flex
@@ -98,7 +104,7 @@ const Auth = () => {
                         text-neutral-500
                         mt-12">
                             First time using Netflix?
-                            <span className="
+                            <span onClick={toggleVariant} className="
                             text-white
                             ml-1
                             hover:underline cursor-pointer
