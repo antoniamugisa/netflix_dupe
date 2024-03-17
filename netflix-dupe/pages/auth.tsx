@@ -80,7 +80,7 @@ const Auth = () => {
                                 onChange={(ev: any) => setPassword(ev.target.value)}
                                 id="password"
                                 type="email"
-                                value={email}
+                                value={password}
                             />
                         </div>
                         <button className="
@@ -104,7 +104,6 @@ const Auth = () => {
                             hover:underline cursor-pointer
                             ">
                                 Create an account?
-
                             </span>
                         </p>
                     </div>
